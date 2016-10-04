@@ -1,3 +1,8 @@
+MRS-ROUTER luci mod
+=======
+
+added ser2net config panel
+
 # OpenWrt luci feed
 
 ## Description
